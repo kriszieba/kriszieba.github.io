@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Find my publications on: https://scholar.google.com/citations?user=ZPMM8YEAAAAJ&hl=no
