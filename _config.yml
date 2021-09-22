@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Kristoffer J. Zieba"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "IMG_2318.jpg"
+  bio              : "Data scientist @Nivero"
   location         : "Trondheim/Molde, Norway"
   employer         :
   pubmed           : # ""
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kristoffer-zieba/"
+  linkedin         : "kristoffer-zieba"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
