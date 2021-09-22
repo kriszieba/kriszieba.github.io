@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc in geology, NTNU (Trondheim NO) and AGH (Krakow PL), 2011 (doble degree)
+* MSc in geology, NTNU (Trondheim NO) and AGH (Krakow PL), 2011 (double degree)
 * PhD in geology/numerical modelling, NTNU (Trondheim NO), 2016
 
 Work experience
@@ -23,11 +23,11 @@ Work experience
 * 2018-2020: Project Manager, NTNU
 * 2017-2018: Research software developer, StoRM/NTNU
   * Reinforcement learning
-  * Nummerical modelling - physical processes
+  * Nummerical modelling
   * GIS data manipulation
 
 * 2012-2013: Researcher, Sintef
-  * Mathematical modelling - geoscience
+  * Mathematical modelling
   
 Publications
 ======
