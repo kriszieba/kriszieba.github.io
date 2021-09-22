@@ -27,7 +27,7 @@ Work experience
   * GIS data manipulation
 
 * 2012-2013: Researcher, Sintef
-  * Mathematical modelling
+  * Mathematical modelling in geosciences
   
 Publications
 ======
