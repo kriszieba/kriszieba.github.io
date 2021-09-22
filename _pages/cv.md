@@ -11,36 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in geology, NTNU (Trondheim NO) and AGH (Krakow PL), 2011 (doble degree)
+* PhD in geology/numerical modelling, NTNU (Trondheim NO), 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-present: Data Scientist, Nivero AS
+  * Computer Vision
+  * Mathematical modelling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2020: Project Manager, NTNU
+* 2017-2018: Research software developer, StoRM/NTNU
+  * Reinforcement learning
+  * Nummerical modelling - physical processes
+  * GIS data manipulation
+
+* 2012-2013: Researcher, Sintef
+  * Mathematical modelling - geoscience
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Available on [Google Scholar](https://scholar.google.com/citations?user=ZPMM8YEAAAAJ&hl=no)
   
 Talks
 ======
@@ -53,7 +44,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
