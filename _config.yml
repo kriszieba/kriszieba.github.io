@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kristoffer J. Zieba"
 title_separator          : "-"
-name                     : &name "Kristoffer Jan Zieba, PhD"
+name                     : &name "Kristoffer J. Zieba"
 description              : &description "personal description"
 url                      : https://kriszieba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kristoffer J. Zieba"
+  name             : "Kristoffer J. Zieba, PhD"
   avatar           : "IMG_2318.jpg"
   bio              : "Data scientist @Nivero"
   location         : "Trondheim/Molde, Norway"
