@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Kristoffer J. Zieba, PhD"
-  avatar           : "IMG_2318.jpg"
-  bio              : "Data scientist @Nivero"
-  location         : "Trondheim/Molde, Norway"
-  employer         :
+  avatar           : "kjz_nivero.jpeg"
+  bio              : "Data scientist @Kantega"
+  location         : "Trondheim, Norway"
+  employer         : "Kantega AS"
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=ZPMM8YEAAAAJ&hl=no"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Kristoffer-Zieba"
   uri              :
   bitbucket        :
   codepen          :
