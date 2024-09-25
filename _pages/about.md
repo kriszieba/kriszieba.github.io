@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data scientist at [Nivero AS](nivero.no). Previously I worked as a researcher, research software developer, project manager and was responsible for commercialization of academic research. I have background in geology and numerical modelling (MSc and PhD). I enjoy working with data and building technology that makes sense for users, society and environment. 
+I'm a data scientist at [Kantega AS](kantega.no). Previously I worked as a researcher, research software developer, project manager and was responsible for commercialization of academic research. I have background in geology and numerical modelling (MSc and PhD). I enjoy working with data and building technology that makes sense for users, society and environment. 
