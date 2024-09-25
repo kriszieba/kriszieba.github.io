@@ -39,9 +39,9 @@ Work experience
 * 2012-2013: Researcher, Sintef
   * Mathematical modelling in geosciences
 
-Publications
+<!-- Publications
 ======
-Available on [Google Scholar](https://scholar.google.com/citations?user=ZPMM8YEAAAAJ&hl=no)
+Available on [Google Scholar](https://scholar.google.com/citations?user=ZPMM8YEAAAAJ&hl=no) -->
 
 Selected talks
 ======
@@ -49,8 +49,8 @@ Selected talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
