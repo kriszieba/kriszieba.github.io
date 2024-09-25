@@ -3,10 +3,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Blog Posts"
+  - title: "Online Publications"
     url: /year-archive/
   
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
  # - title: "Talks"
