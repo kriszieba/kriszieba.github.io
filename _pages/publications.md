@@ -15,5 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=ZPMM8YEAAAAJ&hl=no)
 
-Find my publications on [Google Scholar](https://scholar.google.com/citations?user=ZPMM8YEAAAAJ&hl=no)
+My PhD thesis is available [here](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2423227)
+
